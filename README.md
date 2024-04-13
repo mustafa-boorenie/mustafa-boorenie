@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @mustafa-boorenie </h1>
 
-<p>_I’m interested in pursuing the intersection of technology, medicine and art._</p>
+<h3>_I’m interested in pursuing the intersection of technology, medicine and art._</h3>
   
 <h3>My programming languages are:</h3>
 
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-- Developer tools I utilize:
+<h3>Developer tools I utilize:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,git,netlify,npm,yarn"/>
