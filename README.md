@@ -14,19 +14,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,soldity,firebase,docker,aws,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,firebase,docker,aws,nodejs"/>
   </a>
 </p>
 
-<h3>Developer tools I utilize:</h3>
+<h3>Designer tools I utilize:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,soldity,firebase,docker,aws,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/>
   </a>
 </p>
 
-- Design tools I utilize:
+- Developer tools I utilize:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,git,netlify,npm,yarn"/>
