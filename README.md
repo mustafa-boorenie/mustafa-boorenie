@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mustafa-boorenie
+<h1>👋 Hi, I’m @mustafa-boorenie </h1>
 -  I’m interested in pursuing the intersection of technology, medicine and art.
 -  My programming languages are:
 <p align="center">
@@ -12,7 +12,13 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,soldity,firebase,docker,aws,nodejs"/>
   </a>
 </p>
-- Design tools I can utilize:
+- Developer tools I utilize:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,soldity,firebase,docker,aws,nodejs"/>
+  </a>
+</p>
+- Design tools I utilize:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,figma,ps,ai,threejs"/>
