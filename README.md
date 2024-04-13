@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @mustafa-boorenie </h1>
 
-<h3>I’m interested in pursuing the intersection of technology, medicine and art...</h3>
+<h3>I’m a doctor and developer interested in pursuing the intersection of technology, medicine and art...</h3>
   
 <h3>My programming languages are...</h3>
 
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3> 📫 Rach out via  email - mustafa@bdqholdings.com </h3>
+<h3> 📫 Reach out via  email - mustafa@bdqholdings.com </h3>
 
 <!---
 mustafa-boorenie/mustafa-boorenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
