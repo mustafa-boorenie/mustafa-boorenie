@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m @mustafa-boorenie </h1>
 
-<h3>I’m interested in pursuing the intersection of technology, medicine and art.</h3>
+<h3>I’m interested in pursuing the intersection of technology, medicine and art...</h3>
   
-<h3>My programming languages are:</h3>
+<h3>My programming languages are...</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3>Frameworks I'm familiar with:</h3>
+<h3>Frameworks I'm familiar with...</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3>Designer tools I utilize:</h3>
+<h3>Designer tools I utilize...</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3>Developer tools I utilize:</h3>
+<h3>Developer tools I utilize...</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,git,netlify,npm,yarn"/>
