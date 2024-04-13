@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @mustafa-boorenie </h1>
 
-<h3>_I’m interested in pursuing the intersection of technology, medicine and art._</h3>
+<h3>I’m interested in pursuing the intersection of technology, medicine and art.</h3>
   
 <h3>My programming languages are:</h3>
 
