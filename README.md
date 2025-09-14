@@ -2,38 +2,13 @@
 
 <h3>I’m a doctor and developer interested in pursuing the intersection of technology, medicine and art...</h3>
   
-<h3>My programming languages are...</h3>
+<p>my programming languages are...  <img src="https://skillicons.dev/icons?i=swift,py,js,ts,html,css,golang"/> </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,py,js,html,css,rust"/>
-  </a>
-</p>
+<p>the frameworks I'm familiar with...     <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,firebase,docker,aws,nodejs"/> </p>
 
-<h3>Frameworks I'm familiar with...</h3>
+<p>i design (badly) too, with...     <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/> </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,firebase,docker,aws,nodejs"/>
-  </a>
-</p>
-
-<h3>Designer tools I utilize...</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/>
-  </a>
-</p>
-
-<h3>Developer tools I utilize...</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,netlify,npm,yarn"/>
-  </a>
-</p>
-
-<h3> 📫 Reach out via  email - mustafa@bdqholdings.com </h3>
+<p> 📫 Reach out via  email - drmustafa@bdqholdings.com </p>
 
 <!---
 mustafa-boorenie/mustafa-boorenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
