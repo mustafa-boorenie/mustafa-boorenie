@@ -1,6 +1,8 @@
 <h1>👋 Hi, I’m @mustafa-boorenie </h1>
 
-<h3>I’m a doctor and developer interested in pursuing the intersection of technology, medicine and art...</h3>
+<h4>I’m a doctor and developer interested in pursuing the intersection of technology, medicine and art...</h4>
+
+<br/>
   
 <p>my programming languages are...  <img src="https://skillicons.dev/icons?i=swift,py,js,ts,html,css,golang"/> </p>
 
