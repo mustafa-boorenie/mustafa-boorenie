@@ -6,7 +6,7 @@
 
 <p>the frameworks I'm familiar with...     <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,firebase,docker,aws,nodejs"/> </p>
 
-<p>i design (badly) too, with...     <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/> </p>
+<p>i design (badly) with these tools...    <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/> </p>
 
 <p> 📫 Reach out via  email - drmustafa@bdqholdings.com </p>
 
