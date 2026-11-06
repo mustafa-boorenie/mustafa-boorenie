@@ -1,4 +1,4 @@
-Physician and builder. Founder of [BDQ Holdings](https://bdqholdings.com), a clinical AI consulting shop. Tech bro with an MD, at the intersection of medicine, software and art.
+Physician-engineer. Founder of [BDQ Holdings](https://bdqholdings.com), a clinical AI consulting shop. Tech bro with an MD, at the intersection of medicine, software and art.
 
 ## Currently
 
