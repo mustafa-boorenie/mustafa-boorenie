@@ -1,18 +1,18 @@
-<h1>👋 Hi, I’m @mustafa-boorenie </h1>
+Physician and builder. Founder of [BDQ Holdings](https://bdqholdings.com), a clinical AI consulting shop. Tech bro with an MD, at the intersection of medicine, software and art.
 
-<h4>I’m a doctor and developer interested in pursuing the intersection of technology, medicine and art...</h4>
+## Currently
 
-<br/>
-  
-<p>my programming languages are...  <img src="https://skillicons.dev/icons?i=swift,py,js,ts,html,css,golang"/> </p>
+- **[arakis](https://arakis.ai)**: AI platform that runs systematic reviews and meta-analyses end to end: dual-review screening, full-text retrieval, source-traceable data extraction, pooled analysis, PRISMA reporting. Ships with an [MCP server](https://api.arakis.ai/mcp) so agents can drive it.
+- **[BDQ Holdings](https://bdqholdings.com)**: clinical AI, automation and web builds for healthcare practices and e-commerce brands.
+- **[schedule-ttuhsctm-im](https://github.com/mustafa-boorenie/schedule-ttuhsctm-im)**: turns residency rotation and call schedules into subscribable per-resident calendar feeds.
+- **[billingbot](https://github.com/mustafa-boorenie/billingbot)**: Playwright bot that automates visit-type changes in eClinicalWorks.
+- **[blessed-mcp-server](https://github.com/mustafa-boorenie/blessed-mcp-server)** and **[twilio_sms_mcp](https://github.com/mustafa-boorenie/twilio_sms_mcp)**: MCP servers that give LLMs control of Blender and SMS.
+- **[xcode-dev](https://github.com/mustafa-boorenie/xcode-dev)**: Claude Code plugin for Xcode development.
 
-<p>the frameworks I'm familiar with...     <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,firebase,docker,aws,nodejs"/> </p>
+## Stack
 
-<p>i design (badly) with these tools...    <img src="https://skillicons.dev/icons?i=blender,ps,ai,threejs,figma"/> </p>
+Python, TypeScript, Swift, React, Next.js, Node, Postgres, OR-Tools, Playwright, Docker, AWS, Railway, Claude and OpenAI APIs, MCP.
 
-<p> 📫 Reach out via  email - drmustafa@bdqholdings.com </p>
+## Find me
 
-<!---
-mustafa-boorenie/mustafa-boorenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[bdqholdings.com](https://bdqholdings.com) · [arakis.ai](https://arakis.ai) · [X](https://x.com/MustafaBoorenie) · [Instagram](https://instagram.com/drboorenie) · [Email](mailto:drmustafa@bdqholdings.com)
